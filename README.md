@@ -1,4 +1,5 @@
 # trackerMetaManager
+Modified version for model system comparison system by Benjamin Frey
 a clone of metaManager to recode for move to HCA tracker site
 
 ## Notes
